@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPR-Server", "SPR-Server\SPR-Server.csproj", "{F4BC0077-3648-4CF2-BA7C-679B5A8FDE22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPR-Client", "SPR-Client\SPR-Client.csproj", "{13C0584C-069B-4646-910B-96A4DB844BC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyNetwork", "MyNetwork\MyNetwork.csproj", "{D090FABA-1937-4C9B-AF02-FBEBDCC7FD85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4BC0077-3648-4CF2-BA7C-679B5A8FDE22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4BC0077-3648-4CF2-BA7C-679B5A8FDE22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4BC0077-3648-4CF2-BA7C-679B5A8FDE22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4BC0077-3648-4CF2-BA7C-679B5A8FDE22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C0584C-069B-4646-910B-96A4DB844BC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C0584C-069B-4646-910B-96A4DB844BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C0584C-069B-4646-910B-96A4DB844BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C0584C-069B-4646-910B-96A4DB844BC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D090FABA-1937-4C9B-AF02-FBEBDCC7FD85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D090FABA-1937-4C9B-AF02-FBEBDCC7FD85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D090FABA-1937-4C9B-AF02-FBEBDCC7FD85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D090FABA-1937-4C9B-AF02-FBEBDCC7FD85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
